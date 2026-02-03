@@ -1,4 +1,4 @@
-##Projekt
+## Projekt
 Projekt przedstawia symulacje paczki kwantowej w 1D zmieniającej się w czasie.
 
 ## Autor
